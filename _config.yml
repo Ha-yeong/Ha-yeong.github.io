@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Profile information
 name: Fresh
 title: Fresh - Free Jekyll Theme
@@ -34,3 +35,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 include: [_pages]
+=======
+theme: jekyll-theme-minimal
+>>>>>>> cf6fac8390bc12ac69780e930b22c31c4709f761
